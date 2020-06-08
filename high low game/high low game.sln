@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "high low game", "high low game\high low game.csproj", "{3A6DE705-41DE-4CEF-A997-FE675B08B7C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A6DE705-41DE-4CEF-A997-FE675B08B7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6DE705-41DE-4CEF-A997-FE675B08B7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6DE705-41DE-4CEF-A997-FE675B08B7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6DE705-41DE-4CEF-A997-FE675B08B7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE67E430-8AD6-4A63-9191-29B06C726A18}
+	EndGlobalSection
+EndGlobal

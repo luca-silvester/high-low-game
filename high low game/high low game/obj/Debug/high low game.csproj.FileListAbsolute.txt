@@ -1,0 +1,6 @@
+C:\Users\silvo0803\source\repos\high low game\high low game\bin\Debug\high low game.exe.config
+C:\Users\silvo0803\source\repos\high low game\high low game\bin\Debug\high low game.exe
+C:\Users\silvo0803\source\repos\high low game\high low game\bin\Debug\high low game.pdb
+C:\Users\silvo0803\source\repos\high low game\high low game\obj\Debug\high low game.csprojAssemblyReference.cache
+C:\Users\silvo0803\source\repos\high low game\high low game\obj\Debug\high low game.exe
+C:\Users\silvo0803\source\repos\high low game\high low game\obj\Debug\high low game.pdb
